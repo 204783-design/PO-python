@@ -3,6 +3,7 @@ klos = turtle.Turtle()
 klos.speed(10)
 klos.width(5)
 klos.color('antique white')
+#deze kleur is goed te vergelijken met de kleur van het Patheon
 klos.penup()
 klos.right(90)
 klos.forward(300)
@@ -11,6 +12,7 @@ klos.forward(300)
 klos.right(180)
 klos.pendown()
 for x in range(8):
+    #het Patheon heeft 8 pilaren dus dit moest 8 keer gebeuren
     klos.left(90)
     klos.forward(150)
     klos.right(90)
@@ -34,3 +36,4 @@ klos.right(135)
 klos.forward(427)
 klos.right(90)
 klos.forward(427)
+#na lang puzzelen zijn we achter de juiste formaten gekomen

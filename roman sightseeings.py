@@ -37,7 +37,6 @@ s = "De Villa Borghese is een openbaar park in de Italiaanse hoofdstad Rome. Het
 hits["De Villa Borghese"] = zoekop(antwoord,s)
 #https://nl.wikipedia.org/wiki/Villa_Borghese
 
-#LijstLokaties = ["Pantheon","Colosseum","Trevifontein","Sint-Pietersbasiliek", "Spaanse Trappen", "Villa Borghese"]
 
 MeesteHits = -1
 Bezienswaardigheid_met_de_meeste_hits = ""
